@@ -1,0 +1,21 @@
+	Github
+
+git init
+
+git status
+
+git add .
+
+git commit -m "First Commit"
+
+git config --global user.email "EMAIL"
+
+git config --global user.name "USERNAME"
+
+git commit -m "First Commit"
+
+git remote add origin https://github.com/i-dell/git-test-proj.git
+
+git status
+
+git push -u origin master 
