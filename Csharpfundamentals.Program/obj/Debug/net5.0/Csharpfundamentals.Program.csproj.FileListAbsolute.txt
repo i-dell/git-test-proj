@@ -1,0 +1,16 @@
+A:\SDA\git-test-project\Csharpfundamentals.Program\bin\Debug\net5.0\Csharpfundamentals.Program.exe
+A:\SDA\git-test-project\Csharpfundamentals.Program\bin\Debug\net5.0\Csharpfundamentals.Program.deps.json
+A:\SDA\git-test-project\Csharpfundamentals.Program\bin\Debug\net5.0\Csharpfundamentals.Program.runtimeconfig.json
+A:\SDA\git-test-project\Csharpfundamentals.Program\bin\Debug\net5.0\Csharpfundamentals.Program.runtimeconfig.dev.json
+A:\SDA\git-test-project\Csharpfundamentals.Program\bin\Debug\net5.0\Csharpfundamentals.Program.dll
+A:\SDA\git-test-project\Csharpfundamentals.Program\bin\Debug\net5.0\ref\Csharpfundamentals.Program.dll
+A:\SDA\git-test-project\Csharpfundamentals.Program\bin\Debug\net5.0\Csharpfundamentals.Program.pdb
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.csprojAssemblyReference.cache
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.GeneratedMSBuildEditorConfig.editorconfig
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.AssemblyInfoInputs.cache
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.AssemblyInfo.cs
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.csproj.CoreCompileInputs.cache
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.dll
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\ref\Csharpfundamentals.Program.dll
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.pdb
+A:\SDA\git-test-project\Csharpfundamentals.Program\obj\Debug\net5.0\Csharpfundamentals.Program.genruntimeconfig.cache

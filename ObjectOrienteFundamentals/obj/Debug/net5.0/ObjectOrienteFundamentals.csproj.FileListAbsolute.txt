@@ -1,0 +1,16 @@
+A:\SDA\git-test-project\ObjectOrienteFundamentals\bin\Debug\net5.0\ObjectOrienteFundamentals.exe
+A:\SDA\git-test-project\ObjectOrienteFundamentals\bin\Debug\net5.0\ObjectOrienteFundamentals.deps.json
+A:\SDA\git-test-project\ObjectOrienteFundamentals\bin\Debug\net5.0\ObjectOrienteFundamentals.runtimeconfig.json
+A:\SDA\git-test-project\ObjectOrienteFundamentals\bin\Debug\net5.0\ObjectOrienteFundamentals.runtimeconfig.dev.json
+A:\SDA\git-test-project\ObjectOrienteFundamentals\bin\Debug\net5.0\ObjectOrienteFundamentals.dll
+A:\SDA\git-test-project\ObjectOrienteFundamentals\bin\Debug\net5.0\ref\ObjectOrienteFundamentals.dll
+A:\SDA\git-test-project\ObjectOrienteFundamentals\bin\Debug\net5.0\ObjectOrienteFundamentals.pdb
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.csprojAssemblyReference.cache
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.AssemblyInfoInputs.cache
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.AssemblyInfo.cs
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.csproj.CoreCompileInputs.cache
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.dll
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ref\ObjectOrienteFundamentals.dll
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.pdb
+A:\SDA\git-test-project\ObjectOrienteFundamentals\obj\Debug\net5.0\ObjectOrienteFundamentals.genruntimeconfig.cache
